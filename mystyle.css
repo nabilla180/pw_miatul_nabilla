@@ -1,0 +1,65 @@
+body{
+    background-color: cyan;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* selector id digunkan untuk merujuk pada element html*/
+h1{
+    text-align: center;
+    color: blue;
+}
+p{
+    text-align: justify;
+    width: fit-content;
+}
+.foto{
+    background-color: black;
+    text-align:fit-content
+}   
+img{
+    width: 20%;
+
+}
+/* membuat paragraf*/
+.menu{
+    background-color: aquamarine;
+    text-align: justify;
+    border-top-right-radius: 16%;
+}
+/* untuk li*/
+#li{
+    border-bottom-left-radius: 12;
+    text-align: center;
+    text-align: justify;
+}
+
+.promo{
+    color: blue;
+    text-align: center;
+}
+.td{
+    color: blue;
+}
+.cod{
+    margin: auto;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cod p{
+    background-color: aquamarine;
+    border: 1px dotted red;
+    text-align: center;
+    font-weight: bold;
+    color:blue
+}
+#pesan{
+    background-color: yellow;
+    color: brown;
+    text-align: center;
+}
+
+
+
+
+
+
